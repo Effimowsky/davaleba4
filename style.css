@@ -1,0 +1,15 @@
+a {
+	text-decoration: none;
+}
+ul {
+	list-style: none;
+}
+.header {
+	background: #0020F4;
+}
+.logo {
+	size: 115px;
+}
+.navbar-a {
+	color: #FFFFFF;
+}
